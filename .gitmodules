@@ -1,3 +1,6 @@
 [submodule "AspectOrientedProgrammingwithSpring"]
 	path = AspectOrientedProgrammingwithSpring
 	url = https://github.com/samritigupta/AspectOrientedProgrammingwithSpring
+[submodule "CRMwithAspectOrientedProgramming"]
+	path = CRMwithAspectOrientedProgramming
+	url = https://github.com/samritigupta/CRMwithAspectOrientedProgramming
